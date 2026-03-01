@@ -33,9 +33,7 @@ A lightweight, configurable HTTP reverse proxy and load balancer written in Go. 
 
 ## Getting Started
 
-### Prerequisites
 
-- Go 1.18+
 
 ### Run the Load Balancer
 
